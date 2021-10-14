@@ -1,4 +1,4 @@
-## Search Github Users
+## [Search Github Users](https://searchgithub-users.netlify.app/)
 Fully responsive website framed for searching users on github. Wrong usernames are handled with an error message. Authentication has been added. The number of followers, repos starred, repos forked, most commonly used languages of the user is shown through bar, pie, column and doughnut graphs.
 Tech Stacks used -
 - React JS
